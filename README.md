@@ -1,4 +1,4 @@
-##💡 Sobre Mim
+## 💡 Sobre Mim
 
 Sou uma desenvolvedora Full Stack com mais de 3 anos de experiência, apaixonada por criar soluções web inovadoras e eficientes. Minha jornada na tecnologia começou em 2018 como Desenvolvedora Web em uma startup, e desde então, tenho me aprimorado para enfrentar novos desafios.
 
