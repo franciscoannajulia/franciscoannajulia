@@ -21,6 +21,10 @@ I started my journey in 2018 as a Web Developer at a startup, and since then, I'
   <img align="center" height="30" src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
 </div>
+<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=franciscoannajulia&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ## 🌱 What I'm Studying Now
 
@@ -37,9 +41,3 @@ If you have any proposals or challenges, don't hesitate to reach out. I love pro
   <a href = "mailto:franciscoannajulia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/franciscoannajulia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-### 📊 Estatísticas
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciscoannajulia&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🚀 Tecnologias mais utilizadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoannajulia&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
