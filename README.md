@@ -37,3 +37,9 @@ If you have any proposals or challenges, don't hesitate to reach out. I love pro
   <a href = "mailto:franciscoannajulia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/franciscoannajulia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+### 📊 Estatísticas
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciscoannajulia&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🚀 Tecnologias mais utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscoannajulia&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
