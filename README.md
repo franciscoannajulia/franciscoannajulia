@@ -26,13 +26,6 @@ I started my journey in 2018 as a Web Developer at a startup, and since then, I'
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=franciscoannajulia&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-## 🌱 What I'm Studying Now
-
-I'm currently focused on improving my English skills and passing the Duolingo English Test (DET).
-<div style="display: inline_block">
-  <a href="https://www.duolingo.com/profile/_AnnaJF_" target="_blank"><img align="center" height="30" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
-</div>
-
 ## 📧 Connect With Me!
 If you have any proposals or challenges, don't hesitate to reach out. I love projects that push me out of my comfort zone!
 <div> 
