@@ -83,9 +83,9 @@
   <i>Minha API de contatos está aberta!</i> <br/>
   Se você busca uma Dev Full Stack comprometida com a qualidade de software, ou simplesmente quer bater um papo amigável sobre tecnologia, inovação e doramas, me manda um alô!
 </p>
-<div>
-  <a href = "mailto:franciscoannajulia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/franciscoannajulia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/zebradalmata" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/franciscoannajulia" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-</div>
+<p align="center">
+  <a href = "mailto:franciscoannajulia@gmail.com"><img height="30px" src="https://i.pinimg.com/1200x/34/bf/85/34bf859aff025ebd5e8772ec6f9b57ab.jpg" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/franciscoannajulia" target="_blank"><img height="30px" src="https://i.pinimg.com/1200x/91/da/1e/91da1e089b8889cf44ac93aa3695c2dc.jpg" target="_blank"></a>
+  <a href="https://discord.gg/zebradalmata" target="_blank"><img height="30px" src="https://i.pinimg.com/736x/ef/cd/19/efcd1934b74e00941f72e20755a3d9ba.jpg" target="_blank"></a>
+  <a href="https://www.twitch.tv/franciscoannajulia" target="_blank"><img height="30px" src="https://i.pinimg.com/736x/92/b8/02/92b80215776e2eb34c580a4fe4198075.jpg" target="_blank"></a>
+</p>
