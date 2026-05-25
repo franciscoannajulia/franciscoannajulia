@@ -71,7 +71,7 @@
   <i>Compiling my productivity history... One green (or pink!) line at a time, showcasing my consistency and daily evolution in development.</i>
 </p>
 
-![Snake contribution graph](https://github.com/franciscoannajulia/franciscoannajulia/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake contribution graph](https://github.com/franciscoannajulia/franciscoannajulia/blob/output/github-contribution-grid-snake.svg)-->
 
 <p align="center" color="#eba4ba">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=franciscoannajulia&theme=tokyonight" alt="GitHub Streak" />
