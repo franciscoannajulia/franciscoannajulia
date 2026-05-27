@@ -22,7 +22,7 @@
          1 CHRISTIAN, DRIVEN BY FAITH AND THE PURPOSE OF MAKING A DIFFERENCE THROUGH TECHNOLOGY   A            24
         20 KNOWLEDGE IN PYTHON, BUT JAVASCRIPT IS WHAT TRULY MAKES MY HEART BEAT FASTER           A             5
         17 HARDCORE K-DRAMA FAN, INTO ANIME AND K-POP                                             A             8
-         7 CAT LADY (9 CATS IN TOTAL, AND NO, I'M NOT THE CRAZY CAT LADY FROM THE SIMPSONS!)      A            18
+         7 CAT LOVER (9 CATS IN TOTAL, AND NO, I'M NOT ELEANOR ABERNATHY!)      A            18
          5 MID-LEVEL FULL STACK DEV WITH +3 YEARS DEALING WITH LEGACY SYSTEM MIGRATIONS           A            20
         10 INTERESTED IN UI/UX (MY NEXT SPECIALIZATIONS)                                          A            15
         13 BORN IN 2001                                                                           A            12
